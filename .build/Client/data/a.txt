@@ -1,0 +1,13 @@
+so I am writing a 2d platformer game on SDL3 and cpp
+and has a period of colision problems - finally seem to fixed them
+
+but only one (or maybe two - don't know if it is 1 or 2 problems) is still exists
+I would be glad if you would help find it
+
+so the case is - jump near vertical wall without horizontal movement
+
+near - so that it collided - and if  I move horizontaly into the wall it stops bagging
+
+bag is: enourmously big jump, like two times larger
+
+I can provide code for you if you want

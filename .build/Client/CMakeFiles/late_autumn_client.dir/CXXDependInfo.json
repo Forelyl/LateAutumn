@@ -1,0 +1,105 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "D:/Institute/Third_year/PZ_Networks/1_3/.build/Client",
+	"dir-cur-src" : "D:/Institute/Third_year/PZ_Networks/1_3/Client",
+	"dir-top-bld" : "D:/Institute/Third_year/PZ_Networks/1_3/.build",
+	"dir-top-src" : "D:/Institute/Third_year/PZ_Networks/1_3",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\RenderWindow",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\Map",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\Game",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\Utils",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\Network",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\Entities\\Entity",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\Entities\\Block",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\Entities\\Movable",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\Entities\\Player",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\Entities\\Opponent",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\Entities\\Text",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Client\\Entities\\Character_array",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Network",
+		"D:\\Libraries_CMake\\libs\\MinGW\\SDL3\\include",
+		"D:\\Libraries_CMake\\libs\\MinGW\\SDL3_image\\include",
+		"D:\\Libraries_CMake\\libs\\MinGW\\SDL3_ttf\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/Institute/Third_year/PZ_Networks/1_3/.build/Client/CMakeFiles/late_autumn_client.dir",
+	"sources" : 
+	{
+		"Client/CMakeFiles/late_autumn_client.dir/Entities/Block/Block.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Block/Block.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/Entities/Character_array/Character_array.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Character_array/Character_array.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/Entities/Entity/Entity.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Entity/Entity.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/Entities/Movable/Movable.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Movable/Movable.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/Entities/Opponent/Opponent.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Opponent/Opponent.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/Entities/Player/Player.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Player/Player.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/Entities/Text/Text.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Text/Text.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/Game/Game.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Game/Game.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/Map/Map.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Map/Map.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/Network/Network.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Network/Network.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/RenderWindow/RenderWindow.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/RenderWindow/RenderWindow.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/Utils/utils.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Utils/utils.cpp"
+		},
+		"Client/CMakeFiles/late_autumn_client.dir/client.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/client.cpp"
+		}
+	}
+}

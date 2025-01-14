@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "Client\\CMakeFiles\\late_autumn_client.dir\\RenderWindow\\RenderWindow.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

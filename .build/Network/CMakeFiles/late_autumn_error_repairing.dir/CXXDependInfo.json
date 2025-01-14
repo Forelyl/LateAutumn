@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "D:/Institute/Third_year/PZ_Networks/1_3/.build/Network",
+	"dir-cur-src" : "D:/Institute/Third_year/PZ_Networks/1_3/Network",
+	"dir-top-bld" : "D:/Institute/Third_year/PZ_Networks/1_3/.build",
+	"dir-top-src" : "D:/Institute/Third_year/PZ_Networks/1_3",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/Institute/Third_year/PZ_Networks/1_3/.build/Network/CMakeFiles/late_autumn_error_repairing.dir",
+	"sources" : 
+	{
+		"Network/CMakeFiles/late_autumn_error_repairing.dir/error_repairing.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Network/error_repairing.cpp"
+		}
+	}
+}

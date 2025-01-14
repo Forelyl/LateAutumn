@@ -1,0 +1,412 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Client/late_autumn_client.exe"
+		},
+		{
+			"path" : "Client/late_autumn_client.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"Client/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 46,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 49,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 68,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++23"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/RenderWindow"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Map"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Game"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Utils"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Network"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Entity"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Block"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Movable"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Player"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Opponent"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Text"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Character_array"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Network"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "D:/Libraries_CMake/libs/MinGW/SDL3/include"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "D:/Libraries_CMake/libs/MinGW/SDL3_image/include"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "D:/Libraries_CMake/libs/MinGW/SDL3_ttf/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "23"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				7,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "late_autumn_error_repairing::@2ce5434ecf0d5818020e"
+		}
+	],
+	"id" : "late_autumn_client::@39d0ae6511a0d9878f7b",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "Network\\liblate_autumn_error_repairing.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lwsock32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lws2_32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "D:\\Libraries_CMake\\libs\\MinGW\\SDL3_image\\lib\\libSDL3_image.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "D:\\Libraries_CMake\\libs\\MinGW\\SDL3_ttf\\lib\\libSDL3_ttf.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "D:\\Libraries_CMake\\libs\\MinGW\\SDL3\\lib\\libSDL3.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "late_autumn_client",
+	"nameOnDisk" : "late_autumn_client.exe",
+	"paths" : 
+	{
+		"build" : "Client",
+		"source" : "Client"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				7,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/client.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/RenderWindow/RenderWindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/RenderWindow/RenderWindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/Utils/utils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/Utils/utils.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/Entities/Entity/Entity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/Entities/Entity/Entity.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/Entities/Block/Block.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/Entities/Block/Block.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/Entities/Movable/Movable.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/Entities/Movable/Movable.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/Entities/Player/Player.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/Entities/Player/Player.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/Entities/Opponent/Opponent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/Entities/Opponent/Opponent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/Entities/Text/Text.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/Entities/Text/Text.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/Entities/Character_array/Character_array.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/Entities/Character_array/Character_array.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/Network/Network.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/Network/Network.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/Map/Map.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/Map/Map.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Client/Game/Game.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Client/Game/Game.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

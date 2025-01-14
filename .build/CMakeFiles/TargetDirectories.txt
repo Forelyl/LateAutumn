@@ -1,0 +1,11 @@
+D:/Institute/Third_year/PZ_Networks/1_3/.build/CMakeFiles/edit_cache.dir
+D:/Institute/Third_year/PZ_Networks/1_3/.build/CMakeFiles/rebuild_cache.dir
+D:/Institute/Third_year/PZ_Networks/1_3/.build/Network/CMakeFiles/late_autumn_error_repairing.dir
+D:/Institute/Third_year/PZ_Networks/1_3/.build/Network/CMakeFiles/edit_cache.dir
+D:/Institute/Third_year/PZ_Networks/1_3/.build/Network/CMakeFiles/rebuild_cache.dir
+D:/Institute/Third_year/PZ_Networks/1_3/.build/Client/CMakeFiles/late_autumn_client.dir
+D:/Institute/Third_year/PZ_Networks/1_3/.build/Client/CMakeFiles/edit_cache.dir
+D:/Institute/Third_year/PZ_Networks/1_3/.build/Client/CMakeFiles/rebuild_cache.dir
+D:/Institute/Third_year/PZ_Networks/1_3/.build/Server/CMakeFiles/late_autumn_server.dir
+D:/Institute/Third_year/PZ_Networks/1_3/.build/Server/CMakeFiles/edit_cache.dir
+D:/Institute/Third_year/PZ_Networks/1_3/.build/Server/CMakeFiles/rebuild_cache.dir

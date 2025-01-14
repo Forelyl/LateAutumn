@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "Client/CMakeFiles/late_autumn_client.dir/Entities/Character_array/Character_array.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

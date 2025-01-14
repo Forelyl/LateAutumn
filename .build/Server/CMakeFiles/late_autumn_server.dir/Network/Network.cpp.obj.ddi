@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "Server\\CMakeFiles\\late_autumn_server.dir\\Network\\Network.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

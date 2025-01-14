@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build Server/CMakeFiles/late_autumn_server.dir/server.cpp.obj: dyndep
+
+build Server/CMakeFiles/late_autumn_server.dir/Network/Network.cpp.obj: dyndep
+
+build Server/CMakeFiles/late_autumn_server.dir/Players/Players.cpp.obj: dyndep
+

@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Network",
+					"jsonFile" : "directory-Network-Debug-fb52488b882b8fe8a274.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Network",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Client",
+					"jsonFile" : "directory-Client-Debug-32ce8e758cccb39b8cc7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Client",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Server",
+					"jsonFile" : "directory-Server-Debug-08cc111fca47106482c9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Server",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "late_autumn"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "late_autumn_error_repairing",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "late_autumn_client",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "late_autumn_server",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "late_autumn_client::@39d0ae6511a0d9878f7b",
+					"jsonFile" : "target-late_autumn_client-Debug-6e6c8d092c16091f851e.json",
+					"name" : "late_autumn_client",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "late_autumn_error_repairing::@2ce5434ecf0d5818020e",
+					"jsonFile" : "target-late_autumn_error_repairing-Debug-9ce8beba2b6d9069ee48.json",
+					"name" : "late_autumn_error_repairing",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "late_autumn_server::@20a40c4b36ca103854cb",
+					"jsonFile" : "target-late_autumn_server-Debug-f6a540a577b8a1fab59d.json",
+					"name" : "late_autumn_server",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Institute/Third_year/PZ_Networks/1_3/.build",
+		"source" : "D:/Institute/Third_year/PZ_Networks/1_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

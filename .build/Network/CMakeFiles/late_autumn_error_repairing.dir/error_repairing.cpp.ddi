@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "Network/CMakeFiles/late_autumn_error_repairing.dir/error_repairing.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

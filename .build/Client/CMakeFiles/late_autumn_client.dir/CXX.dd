@@ -1,0 +1,27 @@
+ninja_dyndep_version = 1.0
+build Client/CMakeFiles/late_autumn_client.dir/client.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/RenderWindow/RenderWindow.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/Utils/utils.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/Entities/Entity/Entity.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/Entities/Block/Block.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/Entities/Movable/Movable.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/Entities/Player/Player.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/Entities/Opponent/Opponent.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/Entities/Text/Text.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/Entities/Character_array/Character_array.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/Network/Network.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/Map/Map.cpp.obj: dyndep
+
+build Client/CMakeFiles/late_autumn_client.dir/Game/Game.cpp.obj: dyndep
+
