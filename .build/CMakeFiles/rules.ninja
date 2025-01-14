@@ -170,7 +170,7 @@ rule CXX_EXECUTABLE_LINKER__late_autumn_server_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = D:\Programs\CMake\bin\cmake.exe --regenerate-during-build -SD:\Institute\Third_year\PZ_Networks\1_3 -BD:\Institute\Third_year\PZ_Networks\1_3\.build
+  command = D:\Programs\CMake\bin\cmake.exe --regenerate-during-build -SD:\Institute\Third_year\PZ_Networks\1_3\LateAutumn -BD:\Institute\Third_year\PZ_Networks\1_3\LateAutumn\.build
   description = Re-running CMake...
   generator = 1
 

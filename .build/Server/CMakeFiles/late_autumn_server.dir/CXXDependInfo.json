@@ -6,38 +6,38 @@
 	"config" : "Debug",
 	"cxx-modules" : {},
 	"database-info" : null,
-	"dir-cur-bld" : "D:/Institute/Third_year/PZ_Networks/1_3/.build/Server",
-	"dir-cur-src" : "D:/Institute/Third_year/PZ_Networks/1_3/Server",
-	"dir-top-bld" : "D:/Institute/Third_year/PZ_Networks/1_3/.build",
-	"dir-top-src" : "D:/Institute/Third_year/PZ_Networks/1_3",
+	"dir-cur-bld" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build/Server",
+	"dir-cur-src" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Server",
+	"dir-top-bld" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build",
+	"dir-top-src" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn",
 	"exports" : [],
 	"forward-modules-from-target-dirs" : [],
 	"include-dirs" : 
 	[
-		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Server\\Network",
-		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Server\\Players",
-		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\Network",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\LateAutumn\\Server\\Network",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\LateAutumn\\Server\\Players",
+		"D:\\Institute\\Third_year\\PZ_Networks\\1_3\\LateAutumn\\Network",
 		"D:\\Libraries_CMake\\libs\\MinGW\\SDL3\\include"
 	],
 	"language" : "CXX",
 	"linked-target-dirs" : [],
-	"module-dir" : "D:/Institute/Third_year/PZ_Networks/1_3/.build/Server/CMakeFiles/late_autumn_server.dir",
+	"module-dir" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build/Server/CMakeFiles/late_autumn_server.dir",
 	"sources" : 
 	{
 		"Server/CMakeFiles/late_autumn_server.dir/Network/Network.cpp.obj" : 
 		{
 			"language" : "CXX",
-			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Server/Network/Network.cpp"
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Server/Network/Network.cpp"
 		},
 		"Server/CMakeFiles/late_autumn_server.dir/Players/Players.cpp.obj" : 
 		{
 			"language" : "CXX",
-			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Server/Players/Players.cpp"
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Server/Players/Players.cpp"
 		},
 		"Server/CMakeFiles/late_autumn_server.dir/server.cpp.obj" : 
 		{
 			"language" : "CXX",
-			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/Server/server.cpp"
+			"source" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Server/server.cpp"
 		}
 	}
 }

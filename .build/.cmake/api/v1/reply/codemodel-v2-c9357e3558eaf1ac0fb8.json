@@ -124,7 +124,7 @@
 				{
 					"directoryIndex" : 2,
 					"id" : "late_autumn_client::@39d0ae6511a0d9878f7b",
-					"jsonFile" : "target-late_autumn_client-Debug-6e6c8d092c16091f851e.json",
+					"jsonFile" : "target-late_autumn_client-Debug-a858588d903277911038.json",
 					"name" : "late_autumn_client",
 					"projectIndex" : 2
 				},
@@ -138,7 +138,7 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "late_autumn_server::@20a40c4b36ca103854cb",
-					"jsonFile" : "target-late_autumn_server-Debug-f6a540a577b8a1fab59d.json",
+					"jsonFile" : "target-late_autumn_server-Debug-fd1b9083ef42a6ed02b6.json",
 					"name" : "late_autumn_server",
 					"projectIndex" : 3
 				}
@@ -148,8 +148,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Institute/Third_year/PZ_Networks/1_3/.build",
-		"source" : "D:/Institute/Third_year/PZ_Networks/1_3"
+		"build" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build",
+		"source" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn"
 	},
 	"version" : 
 	{

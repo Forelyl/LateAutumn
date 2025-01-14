@@ -1,4 +1,4 @@
-# Install script for directory: D:/Institute/Third_year/PZ_Networks/1_3
+# Install script for directory: D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,23 +39,23 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Institute/Third_year/PZ_Networks/1_3/.build/Network/cmake_install.cmake")
+  include("D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build/Network/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Institute/Third_year/PZ_Networks/1_3/.build/Client/cmake_install.cmake")
+  include("D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build/Client/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Institute/Third_year/PZ_Networks/1_3/.build/Server/cmake_install.cmake")
+  include("D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build/Server/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "D:/Institute/Third_year/PZ_Networks/1_3/.build/install_local_manifest.txt"
+  file(WRITE "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -71,6 +71,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "D:/Institute/Third_year/PZ_Networks/1_3/.build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

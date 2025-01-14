@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Institute/Third_year/PZ_Networks/1_3/.build"
+			"value" : "d:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -587,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/.build/CMakeFiles/pkgRedirects"
+			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Institute/Third_year/PZ_Networks/1_3"
+			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1346,18 +1346,6 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "SDL3_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "The directory containing a CMake configuration file for SDL3."
-				}
-			],
-			"type" : "PATH",
-			"value" : "SDL3_DIR-NOTFOUND"
-		},
-		{
 			"name" : "_CMAKE_CXX_LINKER_PUSHPOP_STATE_SUPPORTED",
 			"properties" : 
 			[
@@ -1403,7 +1391,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/.build"
+			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build"
 		},
 		{
 			"name" : "late_autumn_IS_TOP_LEVEL",
@@ -1427,7 +1415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Institute/Third_year/PZ_Networks/1_3"
+			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn"
 		},
 		{
 			"name" : "late_autumn_client_BINARY_DIR",
@@ -1439,7 +1427,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/.build/Client"
+			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build/Client"
 		},
 		{
 			"name" : "late_autumn_client_IS_TOP_LEVEL",
@@ -1463,7 +1451,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/Client"
+			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client"
 		},
 		{
 			"name" : "late_autumn_error_repairing_BINARY_DIR",
@@ -1475,7 +1463,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/.build/Network"
+			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build/Network"
 		},
 		{
 			"name" : "late_autumn_error_repairing_IS_TOP_LEVEL",
@@ -1499,7 +1487,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/Network"
+			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Network"
 		},
 		{
 			"name" : "late_autumn_server_BINARY_DIR",
@@ -1511,7 +1499,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/.build/Server"
+			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/.build/Server"
 		},
 		{
 			"name" : "late_autumn_server_IS_TOP_LEVEL",
@@ -1535,7 +1523,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/Server"
+			"value" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Server"
 		}
 	],
 	"kind" : "cache",

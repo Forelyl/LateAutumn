@@ -71,55 +71,55 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/RenderWindow"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/RenderWindow"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Map"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/Map"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Game"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/Game"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Utils"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/Utils"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Network"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/Network"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Entity"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/Entities/Entity"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Block"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/Entities/Block"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Movable"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/Entities/Movable"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Player"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/Entities/Player"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Opponent"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/Entities/Opponent"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Text"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/Entities/Text"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Client/Entities/Character_array"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Client/Entities/Character_array"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/Network"
+					"path" : "D:/Institute/Third_year/PZ_Networks/1_3/LateAutumn/Network"
 				},
 				{
 					"backtrace" : 4,
